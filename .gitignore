@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Model files
+*.h5
+
+# Tokenizer
+*.pk
+
+# OS-specific files
+.DS_Store
+Thumbs.db
