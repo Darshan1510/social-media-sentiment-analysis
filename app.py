@@ -14,7 +14,7 @@ MODEL_URLS = {
 }
 
 # Tokenizer file path
-TOKENIZER_PATH = "tokenizer.pkl"
+TOKENIZER_PATH = "./tokenizers/tokenizer.pkl"
 
 # Local storage for downloaded models
 MODEL_PATHS = {
