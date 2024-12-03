@@ -8,9 +8,6 @@ __pycache__/
 # Model files
 *.h5
 
-# Tokenizer
-*.pk
-
 # OS-specific files
 .DS_Store
 Thumbs.db
