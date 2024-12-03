@@ -35,11 +35,11 @@ def main():
 
     # File paths and configurations
     models = {
-        "CNN Model": "sentiment_analysis_cnn.h5",
-        "GRU Model": "sentiment_analysis_gru.h5",
-        "LSTM Model": "sentiment_analysis_lstm.h5"
+        "CNN Model": "./models/sentiment_analysis_cnn.h5",
+        "GRU Model": "./models/sentiment_analysis_gru.h5",
+        "LSTM Model": "./models/sentiment_analysis_lstm.h5"
     }
-    tokenizer_path = "tokenizer.pkl"
+    tokenizer_path = "./tokenizers/tokenizer.pkl"
     max_sequence_length = 100
 
     # User input
